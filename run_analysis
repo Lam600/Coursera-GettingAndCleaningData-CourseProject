@@ -1,8 +1,10 @@
 # Download appropriate packages
 #download.packages("reshape2")
 #download.packages("dplyr")
+#download.packages("plyr")
 #library("reshape2")
 #library("dplyr")
+#library("plyr")
 
 # Download and unzip the dataset:
 filename <- "getdata_dataset.zip"
